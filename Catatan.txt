@@ -1,0 +1,2 @@
+1. Menggunakan Asset Image (Local Image)
+2. Menggunakan Network Image (URL)
